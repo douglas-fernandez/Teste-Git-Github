@@ -2,3 +2,5 @@ Times de Futebol
 - Corinthians (COR)
 - Bahia (BAH)
 - Internacional (INT)
+- São Paulo (SAO)
+- Fluminense (FLU)
